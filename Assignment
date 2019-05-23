@@ -1,0 +1,45 @@
+ 
+ wireframe
+ https://repl.it/@edwardnunez/ImpossibleViciousBytes
+ 
+ 
+ questions: [{
+      question: "Which is the only American state to begin with the letter 'p'?",
+      answers: ["Pennsylvania", "Pittsburgh", "Philadelphia", "Volaille"],
+      correctAnswerIndex: 0
+      },{
+      question: "Name the world's biggest island",
+      answers: ["Jamaica", "Greenland", "Dominican Republic", "Puerto Rico"],
+      correctAnswerIndex: 1
+      },{
+      question: "What is the world's longest river?",
+      answers: ["Niles", "Ganges", "Amazon", "Mississippi River"],
+      correctAnswerIndex: 2
+      },{
+      question: "What is Earth largest continent?",
+      answers: ["Asia", "Europe", "Antarctica", "Africa"],
+      correctAnswerIndex: 0
+      },{
+      question: "What razor-thin country accounts for more than half of the western coastline of South America?",
+      answers: ["Peru", "Ecuador", "chile", "Bolivia"],
+      correctAnswerIndex: 2
+      },{
+      question: "What river runs through Baghdad",
+      answers: ["Euphrates", "Karun", "Jordan", "Tigris river"],
+      correctAnswerIndex: 3
+      },{
+      question: "What country has the most natural lakes?",
+      answers: ["Australia", "Canada", "India", "United States"],
+      correctAnswerIndex: 1
+      },{
+      question: "What is the only sea without any coasts?",
+      answers: ["celebes sea", "Adriatic sea", "Mediterranean sea", "Sargasso Sea"],
+      correctAnswerIndex: 3
+      },{
+      question: "What percentage of the River Nile is located in Egypt?",
+      answers: [" McMurdo, Antactica", "Atacama desert", "Sahara Desert", "Kudra, libya"],
+      correctAnswerIndex: 0
+      },{
+      question: "In what country can you visit Machu Picchu?",
+      answers: ["Columbia", "Bolivia", "Peru", "Chile"],
+      correctAnswerIndex: 2
